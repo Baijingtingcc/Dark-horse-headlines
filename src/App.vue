@@ -1,5 +1,5 @@
 <template>
-  <div>你好vue</div>
+  <div>是啊是啊是</div>
 </template>
 
 <script>
